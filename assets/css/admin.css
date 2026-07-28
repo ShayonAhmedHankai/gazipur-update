@@ -1,0 +1,10 @@
+/* Admin styles for Gazipur Update meta boxes */
+#gazipur_breaking_news .inside {
+  padding: 12px;
+}
+#gazipur_breaking_news label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 500;
+}

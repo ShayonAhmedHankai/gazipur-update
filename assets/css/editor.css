@@ -1,0 +1,16 @@
+/* Block editor styles */
+.editor-styles-wrapper {
+  font-family: Inter, system-ui, sans-serif;
+  color: #111827;
+}
+.editor-styles-wrapper .wp-block {
+  max-width: 720px;
+}
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2,
+.editor-styles-wrapper h3 {
+  font-weight: 700;
+}
+.editor-styles-wrapper a {
+  color: #dc2626;
+}
