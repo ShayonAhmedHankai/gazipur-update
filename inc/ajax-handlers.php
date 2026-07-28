@@ -31,7 +31,7 @@ function gazipur_update_load_more_posts() {
 
 	$query = new WP_Query( $args );
 
-	obst_start();
+	ob_start();
 
 	if ( $query->have_posts() ) {
 		while ( $query->have_posts() ) {
