@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.swp
+*~
+
+# WordPress
+*.sql
+wp-config.php
